@@ -1,2 +1,7 @@
-# Portfolio_Rodrigo
-Portfólio Rodrigo Loureiro (HTML, SASS/CSS, JavaScript)...
+# Portfolio Rodrigo
+
+## Portfólio desenvolvido em HTML, SASS/CSS, JavaScript...
+
+Em desenvolvimento...
+
+Arquivos .zip na branch 'versions'
